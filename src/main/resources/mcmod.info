@@ -1,0 +1,24 @@
+[
+    {
+        "url":  "",
+        "authorList":  [
+                           "egorbmw530",
+                           "Neirno",
+                           "qqqZxzz123",
+                           "superiorita"
+                       ],
+        "description":  "Ремастер старого мода для NexusGrief",
+        "version":  "1.0.0",
+        "modid":  "sakhcheeseclient",
+        "logoFile":  "",
+        "name":  "SakhCheeseClient",
+        "credits":  "При участии https://github.com/Neirno и https://github.com/qqqZxzz123. superiorita",
+        "mcversion":  "1.12.2",
+        "screenshots":  [
+
+                        ],
+        "dependencies":  [
+
+                         ]
+    }
+]

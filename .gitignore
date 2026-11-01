@@ -1,0 +1,44 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# Local archives and old binaries may contain credentials from older sources.
+*.zip
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.log
+hs_err_pid*
+replay_pid*
+*.hprof
+mcmodsrepo/
+.env
+.env.*
+!.env.example
+*secrets*
+*.pem
+*.key
+*.p12
+*.jks
+local.properties
