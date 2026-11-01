@@ -63,4 +63,4 @@ AutoParkour остаётся экспериментальным: сложные 
 - [qqqZxzz123](https://github.com/qqqZxzz123)
 - superiorita
 
-Подробные шаги ручной проверки находятся в [docs/MANUAL_TESTS.md](docs/MANUAL_TESTS.md), история изменений — в [CHANGELOG.md](CHANGELOG.md).
+Подробные шаги ручной проверки находятся в [docs/MANUAL_TESTS.md](docs/MANUAL_TESTS.md), история изменений - в [CHANGELOG.md](CHANGELOG.md).
